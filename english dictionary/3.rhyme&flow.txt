@@ -1,0 +1,239 @@
+-sight words: insight, foresight, hindsight, oversight, eyesight, farsight, circumsight
+
+-ent words: present, absent, descent, accent, consent, dissent, segment
+
+-ide words: aside, beside, collide, decide, divide, provide, subside
+
+-oad words: abode, bode, code, commode, erode, mode, unload
+
+-ick words: flick, kick, lick, nick, pick, quick, stick
+
+-end words: amend, blend, defend, extend, friend, lend, send
+
+-ose words: chose, compose, disclose, impose, oppose, propose, suppose
+
+-ume words: costume, fume, perfume, resume, assume, consume, volume
+
+-eed words: breed, creed, feed, heed, knead, read, speed
+
+-ash words: bash, clash, dash, flash, smash, thrash, wash
+
+
+-end words: bend, blend, lend, mend, send, spend, trend
+
+-ick words: brick, chick, click, flick, kick, pick, slick
+
+-eat words: beat, cheat, eat, feat, heat, meat, seat
+
+-ace words: ace, base, chase, face, lace, race, space
+
+-end words: attend, bend, end, extend, friend, lend, send
+
+-ift words: drift, gift, lift, rift, shift, thrift, uplift
+
+-ock words: block, clock, dock, flock, knock, lock, stock
+
+-ump words: bump, clump, dump, hump, jump, lump, pump
+
+-oast words: boast, coast, ghost, host, most, roast, toast
+
+-and words: band, brand, grand, hand, land, sand, stand
+
+-ite words: bite, cite, fight, kite, light, night, site
+
+-ump words: chump, clump, grump, hump, jump, pump, stump
+
+-eat words: beat, feat, heat, meat, neat, seat, treat
+
+-ash words: cash, clash, dash, flash, mash, splash, trash
+
+-end words: bend, blend, end, friend, lend, mend, send
+
+-ock words: block, clock, flock, knock, lock, sock, stock
+
+-ill words: chill, drill, fill, grill, hill, spill, thrill
+
+-ace words: brace, chase, face, lace, mace, race, space
+
+-eak words: beak, creak, leak, peak, sneak, speak, tweak
+
+-oze words: chose, close, doze, hose, nose, pose, those
+
+
+-ine words: brine, dine, line, mine, pine, shine, wine
+
+-ash words: crash, flash, gash, mash, rash, slash, thrash
+
+-ick words: chick, click, kick, lick, pick, quick, sick
+
+-ell words: bell, cell, dell, fell, hell, sell, tell
+
+-ive words: dive, drive, hive, jive, live, strive, thrive
+
+-ump words: bump, dump, grump, lump, plump, stump, thump
+
+-ace words: ace, base, brace, chase, face, lace, race
+
+-eat words: beat, eat, feat, heat, meat, seat, treat
+
+-ock words: dock, hock, jock, knock, lock, rock, sock
+
+-unk words: bunk, chunk, drunk, funk, hunk, punk, skunk
+
+
+ake words: bake, brake, cake, flake, quake, rake, stake
+
+-ine words: brine, dine, line, pine, shrine, twine, vine
+
+-unk words: bunk, chunk, drunk, funk, hunk, punk, skunk
+
+-ill words: chill, drill, fill, gill, grill, pill, thrill
+
+-and words: band, brand, grand, hand, land, sand, stand
+
+-unk words: dunk, hunk, junk, punk, skunk, spunk, trunk
+
+-old words: bold, cold, fold, gold, hold, mold, sold
+
+-ace words: ace, brace, chase, face, grace, lace, race
+
+-ash words: ash, bash, cash, clash, flash, rash, smash
+
+-end words: bend, blend, end, lend, mend, send, trend
+
+
+-ay words: bay, day, gray, hay, play, ray, way
+
+-ive words: dive, drive, hive, jive, live, strive, thrive
+
+-ose words: close, dose, hose, nose, pose, rose, those
+
+-ive words: active, attractive, creative, effective, narrative, native, positive
+
+-ack words: back, black, crack, hack, jack, pack, stack
+
+-eat words: beat, cheat, feat, heat, meat, seat, treat
+
+-ive words: arrive, derive, dive, thrive, survive, revive, contrive
+
+-ick words: brick, click, kick, pick, slick, stick, trick
+
+-ound words: bound, found, hound, mound, pound, round, sound
+
+-ive words: festive, instructive, objective, passive, progressive, reflective, selective
+
+-ail words: bail, fail, hail, jail, mail, nail, sail
+
+-ine words: dine, line, mine, pine, shine, spine, wine
+
+-ash words: bash, cash, clash, dash, flash, gash, mash
+
+-ute words: brute, chute, flute, mute, root, salute, suit
+
+-are words: bare, care, dare, fare, glare, hare, stare
+
+-ive words: active, attractive, captive, creative, native, positive, talkative
+
+-ake words: bake, brake, cake, flake, lake, quake, snake
+
+-ine words: divine, define, refine, incline, spine, combine, confine
+
+-ump words: bump, clump, dump, jump, lump, pump, stump
+
+-ish words: dish, fish, wish, swish, relish, abolish, establish
+
+
+
+-ast words: cast, blast, fast, last, past, vast, contrast
+-ose words: chose, close, dose, hose, those, pose, prose
+-ade words: blade, fade, grade, jade, made, shade, trade
+-ive words: arrive, contrive, derive, survive, revive, connive, thrive
+-eat words: beat, cheat, feat, heat, meat, seat, treat
+-end words: bend, blend, defend, extend, mend, send, trend
+-ite words: bite, cite, flight, ignite, kite, night, white
+-unk words: bunk, chunk, drunk, funk, hunk, punk, trunk
+-air words: chair, pair, flair, hair, stair, repair, despair
+
+
+-own words: clown, crown, drown, frown, gown, known, flown
+-ine words: divine, define, refine, align, incline, decline, confine
+-ight words: bright, fight, might, night, sight, tight, outright
+-end words: attend, bend, contend, defend, extend, lend, mend
+-ake words: bake, brake, flake, make, quake, take, stake
+-ump words: bump, clump, dump, jump, lump, plump, thump
+-ive words: active, attractive, creative, negative, positive, passive, native
+-ose words: chose, close, hose, pose, prose, rose, those
+-ell words: bell, cell, dwell, fell, sell, tell, well
+
+-own words: blown, grown, flown, known, blown, sown, thrown
+-ock words: block, clock, dock, flock, knock, rock, sock
+-ind words: bind, find, grind, mind, kind, rind, wind
+-ide words: abide, bide, glide, hide, ride, side, slide
+-ate words: crate, date, fate, gate, mate, plate, state
+-ank words: bank, blank, crank, flank, rank, sank, tank
+-ear words: clear, dear, fear, near, peer, rear, tear
+-ive words: alive, archive, drive, hive, jive, strive, thrive
+-ill words: chill, drill, fill, hill, mill, spill, thrill
+
+abulary, without repeating any of the previous examples:
+
+-est words: best, chest, crest, guest, nest, pest, west
+-unk words: bunk, chunk, drunk, funk, hunk, punk, sunk
+-old words: bold, cold, fold, gold, hold, mold, sold
+-ick words: brick, click, flick, kick, pick, slick, trick
+-ale words: bale, dale, gale, hale, male, pale, tale
+-ent words: bent, cent, dent, lent, scent, tent, vent
+-ump words: bump, clump, dump, hump, jump, lump, pump
+-ast words: blast, cast, fast, last, past, vast, contrast
+-udge words: budge, drudge, fudge, grudge, judge, sludge, trudge
+
+
+
+Glow, show, throw, know, blow - words that end in "ow" and have to do with some kind of action or display
+
+Delight, joy, happiness, contentment, pleasure - words that all convey a positive emotional state
+
+Action, deed, feat, exploit, accomplishment - words that all relate to some kind of achievement or success
+
+Cheerful, happy, joyful, ecstatic, elated - words that describe different levels of happiness or joy
+
+Clever, intelligent, smart, wise, brilliant - words that all relate to intelligence or mental ability
+
+Charm, enchantment, allure, fascination, magnetism - words that all describe a quality that attracts or captivates others
+
+Hug, embrace, squeeze, clutch, grasp - words that all describe some kind of physical contact or holding onto something
+
+Help, assist, aid, support, facilitate - words that all describe actions that make something easier or provide relief
+
+Dine, feast, banquet, eat, consume - words that all relate to eating or having a meal
+
+Notice, observe, perceive, detect, identify - words that all describe the act of becoming aware of something
+
+
+
+Blame, shame, game, aim, same
+Furious, raging, irate, angry, livid
+Delightful, enjoyable, pleasant, satisfying, pleasing
+Breeze, seize, please, sneeze, freeze
+Whisper, mutter, mumble, murmur, grumble
+Astonish, amaze, astound, surprise, shock
+Enrage, provoke, anger, irritate, incense
+Reluctant, hesitant, unwilling, averse, resistant
+Intimidate, frighten, scare, terrify, petrify
+Gracious, courteous, polite, respectful, considerate
+
+
+
+Strong, Long, Wrong, Song, Dong (rhymic)
+Joyful, Cheerful, Blissful, Delighted, Ecstatic (similar meaning)
+Fashion, Passion, Compassion, Mansion, Ration (rhymic)
+Wise, Nice, Price, Spice, Dice (rhymic)
+Powerful, Mighty, Potent, Robust, Vigorous (similar meaning)
+Difficult, Arduous, Challenging, Demanding, Hard (similar meaning)
+Trouble, Bubble, Double, Hubble, Rubble (rhymic)
+Memory, History, Victory, Mystery, Misery (rhymic)
+Lovely, Pretty, Beautiful, Attractive, Charming (similar meaning)
+Swift, Drift, Lift, Gift, Shift (rhymic)
+
+
+
